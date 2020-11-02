@@ -1,0 +1,13 @@
+#email{
+    font-size: 10pt;
+    width: 325px;
+}
+#reemail{
+    width: 325px;
+}
+#npin{
+    width: 325px;
+}
+body{
+    background-color: darkcyan;
+}
